@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Home Appliances",
+    "description": "Assortment of household and commercial appliances.",
+    "parentCategory": null
+  },
+  {
+    "name": "Computer and Office",
+    "description": "Wide range of computing devices, office equipment, and accessories.",
+    "parentCategory": null
+  },
+  {
+    "name": "Home Improvement",
+    "description": "Tools and materials for home renovation and decoration.",
+    "parentCategory": null
+  },
+  {
+    "name": "Home & Garden",
+    "description": "Products for gardening, home decoration, and textiles.",
+    "parentCategory": null
+  },
+  {
+    "name": "Sports & Entertainment",
+    "description": "Sporting goods, fitness equipment, and entertainment products.",
+    "parentCategory": null
+  },
+  {
+    "name": "Education & Office Supplies",
+    "description": "Stationery, educational resources, and office supplies.",
+    "parentCategory": null
+  },
+  {
+    "name": "Toys & Hobbies",
+    "description": "Wide variety of toys, games, and hobby materials.",
+    "parentCategory": null
+  },
+  {
+    "name": "Security & Protection",
+    "description": "Security systems, surveillance, and personal protection equipment.",
+    "parentCategory": null
+  },
+  {
+    "name": "Automobiles & Motorcycles",
+    "description": "Automotive parts, accessories, and motorcycle gear.",
+    "parentCategory": null
+  },
+  {
+    "name": "Lights & Lighting",
+    "description": "Lighting solutions for home, office, and commercial use.",
+    "parentCategory": null
+  },
+  {
+    "name": "Consumer Electronics",
+    "description": "Electronic gadgets, devices, and accessories.",
+    "parentCategory": null
+  },
+  {
+    "name": "Beauty & Health",
+    "description": "Beauty products, health supplements, and personal care items.",
+    "parentCategory": null
+  },
+  {
+    "name": "Shoes",
+    "description": "Variety of shoes for men, women, and children.",
+    "parentCategory": null
+  },
+  {
+    "name": "Luggage & Bags",
+    "description": "Assortment of bags, luggage, and travel accessories.",
+    "parentCategory": null
+  },
+  {
+    "name": "Electronic Components & Supplies",
+    "description": "Electronic parts, components, and supplies for various applications.",
+    "parentCategory": null
+  },
+  {
+    "name": "Tools",
+    "description": "Hand tools, power tools, and tool accessories.",
+    "parentCategory": null
+  },
+  {
+    "name": "Mother & Kids",
+    "description": "Products for babies, kids, and maternity needs.",
+    "parentCategory": null
+  },
+  {
+    "name": "Furniture",
+    "description": "Wide range of furniture for home, office, and outdoors.",
+    "parentCategory": null
+  },
+  {
+    "name": "Jewelry & Accessories",
+    "description": "Wide assortment of jewelry and fashion accessories.",
+    "parentCategory": null
+  },
+  {
+    "name": "Watches",
+    "description": "Collection of watches for all styles and occasions.",
+    "parentCategory": null
+  },
+  {
+    "name": "Women’s Clothing",
+    "description": "Fashionable clothing for women in various styles.",
+    "parentCategory": null
+  },
+  {
+    "name": "Men’s Clothing",
+    "description": "Stylish and comfortable clothing for men.",
+    "parentCategory": null
+  },
+  {
+    "name": "Apparel Accessories",
+    "description": "Accessories to complement clothing, including scarves, belts, and more.",
+    "parentCategory": null
+  },
+  {
+    "name": "Underwear and Sleepwear's",
+    "description": "Comfortable underwear and sleepwear for men and women.",
+    "parentCategory": null
+  },
+  {
+    "name": "Cellphones & Telecommunications",
+    "description": "Mobile phones, accessories, and telecommunication products.",
+    "parentCategory": null
+  }
+]

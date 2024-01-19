@@ -1,34 +1,11 @@
-import CategoryList from "@/components/CategoryList"
-import { ColumnDef } from "@tanstack/table-core";
+import CategoryList from "@/components/catalog/CategoryList"
+import categoryService from "@/api/catalog/category"
+import { columnDefinition } from "@/app/catalog/category/columns";
 
-type Category = {
-  name: String,
-  description: String,
-}
-
-const categories: Category[] = [
-  {
-    name: "Electronics",
-    description: "Find the latest in consumer electronics, from smartphones to laptops."
-  },
-  {
-    name: "Home & Garden",
-    description: "Everything you need for your home and outdoor spaces."
-  },
-  {
-    name: "Beauty & Health",
-    description: "Products for personal care, beauty, and wellness."
-  }
-]
-
-const columnDefinition: ColumnDef<Category>[] = [
-  { accessorKey: "name", header: "Name" },
-  { accessorKey: "description", header: "Description" },
-]
-
-export default function Page() {
+export default async function Page() {
+  const categories = await categoryService.getCategories()
 
   return <>
-    <CategoryList columns={columnDefinition} data={categories} />
+    <CategoryList columns={ columnDefinition } data={ categories } filterColumn="name"/>
   </>
 }
